@@ -11,11 +11,11 @@ body {
     width: 780px;
     border-radius: 20px;
     padding: 35px 40px;
-    background-color: #248b65;
+    background-color: #186146;
 }
 
 .container header {
-    color: #073e25;
+    color: #033820;
     display: flex;
     align-items: center;
     justify-content: space-between;
